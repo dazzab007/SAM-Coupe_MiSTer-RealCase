@@ -1,5 +1,18 @@
 # [SAM Coupe - real case](https://en.wikipedia.org/wiki/SAM_Coup%C3%A9) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
+Modified version of the core designed to:
+### Mods
+- Decode real keyboard matrix.
+- Integrate to new custom replacement PCB board providing:
+  - Real 3.5" Disk Drive connectivity
+  - Real keyboard connectivity
+  - PSU connection to use original PSU.
+  - SCART connection
+  - Composite via original PSU connectivity for TV RF connectivity
+  - Power button
+  - NMI button
+  - Reset button
+
 ### Features:
 - Fully functional SAM Coupe with precise CPU and Video timings.
 - Real CPU frequency for ZX mode and full speed (6MHz) for other modes.

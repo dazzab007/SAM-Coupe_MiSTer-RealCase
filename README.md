@@ -2,7 +2,7 @@
 
 Modified version of the core designed to:
 
-### Mods:
+### Mods: 
 - Decode real keyboard matrix.
 - Integrate to new custom replacement PCB board which will provide:
   - Real 3.5" Disk Drive connectivity

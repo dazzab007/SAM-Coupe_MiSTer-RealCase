@@ -1,9 +1,10 @@
 # [SAM Coupe - real case](https://en.wikipedia.org/wiki/SAM_Coup%C3%A9) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Modified version of the core designed to:
-### Mods
+
+### Mods:
 - Decode real keyboard matrix.
-- Integrate to new custom replacement PCB board providing:
+- Integrate to new custom replacement PCB board which will provide:
   - Real 3.5" Disk Drive connectivity
   - Real keyboard connectivity
   - PSU connection to use original PSU.

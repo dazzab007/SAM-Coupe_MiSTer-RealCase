@@ -1,4 +1,4 @@
-# [SAM Coupe](https://en.wikipedia.org/wiki/SAM_Coup%C3%A9) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+# [SAM Coupe - real case](https://en.wikipedia.org/wiki/SAM_Coup%C3%A9) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ### Features:
 - Fully functional SAM Coupe with precise CPU and Video timings.

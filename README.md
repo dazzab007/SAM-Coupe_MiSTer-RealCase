@@ -76,4 +76,4 @@ Most PC keys are mapped to the same SAM Coupe keys.
 **External RAM** enables/disables support for additional 4MB of RAM. Disabling external RAM reduces startup time of some apps. Some apps can gain advantages if this option is enabled. Actual change of this option happens upon reset.
 
 ### Download precompiled binaries and system ROMs:
-Go to [releases](https://github.com/MiSTer-devel/SAM-Coupe_MiSTer/tree/master/releases) folder.
+Not Yet!
